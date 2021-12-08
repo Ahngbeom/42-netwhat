@@ -1,4 +1,4 @@
-# 1C-netwhat
+# netwhat [![bahn's 42Project Score](https://badge42.herokuapp.com/api/project/bahn/netwhat)](https://github.com/JaeSeoKim/badge42)
 
 # netwhat 시험.... 주어진 시간은 10분 !
 
